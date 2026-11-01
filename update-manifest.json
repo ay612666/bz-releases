@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/ay612666/bz-releases/releases/download/v1.1.0/XuanAoBaZi-1.1.0.apk",
+  "sha256": "2ec0707a857462f6af5cc5a8173aee6ef21540e74fecf80f16eb6ce7c7240349",
+  "fileSize": 19459718,
+  "releaseNotes": [
+    "新增设置页手动检查更新",
+    "下载后校验文件大小与 SHA-256",
+    "由 Android 系统确认安装"
+  ],
+  "publishedAt": "2026-11-02T00:23:30.0369010+08:00"
+}
