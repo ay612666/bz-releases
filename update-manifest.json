@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
-    "versionCode":  6,
-    "versionName":  "1.1.4",
-    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.1.4/XuanAoBaZi-1.1.4-code6.apk",
-    "sha256":  "65d35bf22bf7426f6215acefeaf64ca4a72317ebb5bebcfc1228b1f986c62cfb",
-    "fileSize":  19348073,
+    "versionCode":  7,
+    "versionName":  "1.1.5",
+    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.1.5/XuanAoBaZi-1.1.5-code7.apk",
+    "sha256":  "24e54d47deefa4303083b3c37bf82495a41625625c1a978cfa325d021439dc24",
+    "fileSize":  19348277,
     "releaseNotes":  [
-                         "命盤空白頁只保留一個新增命盤入口，減少重複操作"
+                         "命盤空庫只保留一個新增入口，並保留引擎未就緒時的輸入路徑"
                      ],
-    "publishedAt":  "2026-11-08T22:47:02.3879703+08:00"
+    "publishedAt":  "2026-11-08T22:52:23.0163158+08:00"
 }
