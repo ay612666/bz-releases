@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
-    "versionCode":  9,
-    "versionName":  "1.1.7",
-    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.1.7/XuanAoBaZi-1.1.7-code9.apk",
-    "sha256":  "edb354349bf796fda919557133a3f23b643bb41e353910715e71d4a9ea8f3e4f",
-    "fileSize":  19474714,
+    "versionCode":  10,
+    "versionName":  "1.1.8",
+    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.1.8/XuanAoBaZi-1.1.8-code10.apk",
+    "sha256":  "fb4408155f5430cca0ff1a14965ccd44d9d7c0d0db9c1e7a3821fa5697e61046",
+    "fileSize":  19475042,
     "releaseNotes":  [
-                         "设置页新增最近 5 分钟诊断日志一键复制；仅复制白名单事件，不包含命例资料、不读取系统日志、不上传。"
+                         "设置页新增最近5分钟诊断日志复制；补齐命例不存在事件和5分钟边界测试。"
                      ],
-    "publishedAt":  "2026-11-09T09:15:09.2127517+08:00"
+    "publishedAt":  "2026-11-09T09:19:31.4350522+08:00"
 }
