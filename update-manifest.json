@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
-    "versionCode":  8,
-    "versionName":  "1.1.6",
-    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.1.6/XuanAoBaZi-1.1.6-code8.apk",
-    "sha256":  "78328f98eddd105122d7535e8f2570f578f47fe6b401b7820fff7ec1357ae40a",
-    "fileSize":  19344913,
+    "versionCode":  9,
+    "versionName":  "1.1.7",
+    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.1.7/XuanAoBaZi-1.1.7-code9.apk",
+    "sha256":  "edb354349bf796fda919557133a3f23b643bb41e353910715e71d4a9ea8f3e4f",
+    "fileSize":  19474714,
     "releaseNotes":  [
-                         "修正舊工具箱導航狀態恢復後落入空白頁，改為返回命盤首頁"
+                         "设置页新增最近 5 分钟诊断日志一键复制；仅复制白名单事件，不包含命例资料、不读取系统日志、不上传。"
                      ],
-    "publishedAt":  "2026-11-09T08:48:08.2559232+08:00"
+    "publishedAt":  "2026-11-09T09:15:09.2127517+08:00"
 }
