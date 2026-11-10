@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
-    "versionCode":  12,
-    "versionName":  "1.2.0",
-    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.0/XuanAoBaZi-1.2.0-code12.apk",
-    "sha256":  "edf006493d067394d4825970804cec4250583d760455856abec67b75a607acf8",
-    "fileSize":  19361185,
+    "versionCode":  13,
+    "versionName":  "1.2.1",
+    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.1/XuanAoBaZi-1.2.1-code13.apk",
+    "sha256":  "449dd4f759c457814de7e7f3830335377ac5b202994084cbf742f9928b1c5b16",
+    "fileSize":  19364805,
     "releaseNotes":  [
-                         "命盘首页及底部导航跟随简繁语言设置"
+                         "命盘基本资料和编辑姓名弹层跟随简繁语言设置"
                      ],
-    "publishedAt":  "2026-11-11T00:54:05.3631486+08:00"
+    "publishedAt":  "2026-11-11T05:54:57.3690297+08:00"
 }
