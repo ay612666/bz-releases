@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
-    "versionCode":  11,
-    "versionName":  "1.1.9",
-    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.1.9/XuanAoBaZi-1.1.9-code11.apk",
-    "sha256":  "2271f3efa1e0a176a18c7c0585377d4eb3e0b763ec2a3ab528a5ec0e5d050eaf",
-    "fileSize":  19357965,
+    "versionCode":  12,
+    "versionName":  "1.2.0",
+    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.0/XuanAoBaZi-1.2.0-code12.apk",
+    "sha256":  "edf006493d067394d4825970804cec4250583d760455856abec67b75a607acf8",
+    "fileSize":  19361185,
     "releaseNotes":  [
-                         "修复简体中文设置未应用到新建命例及出生资料弹层的问题"
+                         "命盘首页及底部导航跟随简繁语言设置"
                      ],
-    "publishedAt":  "2026-11-10T20:03:34.6850455+08:00"
+    "publishedAt":  "2026-11-11T00:54:05.3631486+08:00"
 }
