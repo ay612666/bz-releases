@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
-    "versionCode":  14,
-    "versionName":  "1.2.2",
-    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.2/XuanAoBaZi-1.2.2-code14.apk",
-    "sha256":  "d57ee9028f4535b358870ff5efdfe67146090985d86636229c76ae44e1c2a966",
-    "fileSize":  19365145,
+    "versionCode":  15,
+    "versionName":  "1.2.3",
+    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.3/XuanAoBaZi-1.2.3-code15.apk",
+    "sha256":  "10985b9cf88a51f8c38038a0a44c4fe3a52b763e341455cdc7183a9626be495f",
+    "fileSize":  19366081,
     "releaseNotes":  [
-                         "修正命盘基本资料中未知地点的默认坐标说明"
+                         "命盤頁分頁標題跟隨簡繁語言設定"
                      ],
-    "publishedAt":  "2026-11-11T11:00:43.4253814+08:00"
+    "publishedAt":  "2026-11-12T04:46:06.1016710+08:00"
 }
