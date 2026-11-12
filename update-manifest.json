@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
-    "versionCode":  19,
-    "versionName":  "1.2.7",
-    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.7/XuanAoBaZi-1.2.7-code19.apk",
-    "sha256":  "eea2168c17c6643781123f197efa920ae091d9cda1a8b06ece2e3f31bda7fdb0",
-    "fileSize":  19406889,
+    "versionCode":  20,
+    "versionName":  "1.2.8",
+    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.8/XuanAoBaZi-1.2.8-code20.apk",
+    "sha256":  "a7e209c16585bfaa7b0f471f1212a7f4f8ab2619a4ae765602009db6ebaf63be",
+    "fileSize":  19406881,
     "releaseNotes":  [
-                         "命例備註可本地編輯"
+                         "命例列表可按姓名或備註搜尋，僅在本機暫存關鍵詞。"
                      ],
-    "publishedAt":  "2026-11-13T00:54:48.4079505+08:00"
+    "publishedAt":  "2026-11-13T05:51:42.9529724+08:00"
 }
