@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
-    "versionCode":  21,
-    "versionName":  "1.2.9",
-    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.9/XuanAoBaZi-1.2.9-code21.apk",
-    "sha256":  "7f7e1e465212a12b011e6244df14cad920b4c60b721dac986f7d52bab07f66a0",
-    "fileSize":  19408901,
+    "versionCode":  22,
+    "versionName":  "1.2.10",
+    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.10/XuanAoBaZi-1.2.10-code22.apk",
+    "sha256":  "c142aaabcf5bc66e14d1dae15ae4cbb0dc6ef9a1b8e78a89a52325f08eb0c90f",
+    "fileSize":  19414517,
     "releaseNotes":  [
-                         "命例卡片明确标示公历/农历与闰月，并同步简繁设置"
+                         "命例列表新增本地檔案更新／建立時間排序"
                      ],
-    "publishedAt":  "2026-11-13T10:50:50.2183058+08:00"
+    "publishedAt":  "2026-11-13T20:51:35.1719538+08:00"
 }
