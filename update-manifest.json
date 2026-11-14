@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
-    "versionCode":  26,
-    "versionName":  "1.2.14",
-    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.14/XuanAoBaZi-1.2.14-code26.apk",
-    "sha256":  "4a0c6dffe126adf87445173017321b4c0881950c6fbdbe765827dbb7c8276a5f",
-    "fileSize":  19448669,
+    "versionCode":  27,
+    "versionName":  "1.2.15",
+    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.15/XuanAoBaZi-1.2.15-code27.apk",
+    "sha256":  "0b9346ee8aa821b1d770c80728951e435e726ceda2f865221b73392b4ce17ea5",
+    "fileSize":  19455393,
     "releaseNotes":  [
-                         "查找斷語正文，查詢僅在目前載入段落記憶體內生效。"
+                         "斷語目錄新增本地名稱篩選、結果數與空狀態；關閉目錄即清空查詢。"
                      ],
-    "publishedAt":  "2026-11-14T16:58:04.0140773+08:00"
+    "publishedAt":  "2026-11-14T21:56:11.3117124+08:00"
 }
