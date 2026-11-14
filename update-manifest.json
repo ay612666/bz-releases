@@ -1,13 +1,12 @@
 {
     "schemaVersion":  1,
-    "versionCode":  24,
-    "versionName":  "1.2.12",
-    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.12/XuanAoBaZi-1.2.12-code24.apk",
-    "sha256":  "1d86ceb0124efb36c06ee4a752657f01a8ff3e86b4f86c0c146cfdaa22ab3fcf",
-    "fileSize":  19493832,
+    "versionCode":  25,
+    "versionName":  "1.2.13",
+    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.13/XuanAoBaZi-1.2.13-code25.apk",
+    "sha256":  "699b3e862e2fa804bb97d0bbb4a1adbd15f797e8c0c4a02152579a719bfb8f7b",
+    "fileSize":  19430929,
     "releaseNotes":  [
-                         "分享当前断语",
-                         "修正栏目切换时正文匹配"
+                         "新增斷語目錄，可直接選擇本次已保存的非空段落。上一項/下一項跳過缺失段落。"
                      ],
-    "publishedAt":  "2026-11-14T06:58:11.4563962+08:00"
+    "publishedAt":  "2026-11-14T12:05:23.5776721+08:00"
 }
