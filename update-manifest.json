@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
-    "versionCode":  28,
-    "versionName":  "1.2.16",
-    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.16/XuanAoBaZi-1.2.16-code28.apk",
-    "sha256":  "eeaec34a9d78debcc4885603fa516fe80d9349a812a9f046247b1742e551c1fa",
-    "fileSize":  19463277,
+    "versionCode":  29,
+    "versionName":  "1.2.17",
+    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.17/XuanAoBaZi-1.2.17-code29.apk",
+    "sha256":  "fa28aaf4c2aa321552a9aff127300fb2fef1f63717bb35901e5328d603a62c0f",
+    "fileSize":  19465801,
     "releaseNotes":  [
-                         "斷語正文新增小／標準／大三檔閱讀字級；預設尺寸不變，離開頁面後重置。"
+                         "命例列表新增完整出生日期搜尋；支援公曆/農曆，農曆閏月需標註；僅匹配本機保存值，不做曆法轉換。"
                      ],
-    "publishedAt":  "2026-11-15T02:57:41.8325237+08:00"
+    "publishedAt":  "2026-11-15T08:05:35.5467272+08:00"
 }
