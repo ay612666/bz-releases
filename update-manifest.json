@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
-    "versionCode":  31,
-    "versionName":  "1.2.19",
-    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.19/XuanAoBaZi-1.2.19-code31.apk",
-    "sha256":  "097483db2e17d7077ab0f46a50fc0fd4ee00ba20337e4368c37fbc6cc6ff8b93",
-    "fileSize":  19488073,
+    "versionCode":  32,
+    "versionName":  "1.2.20",
+    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.20/XuanAoBaZi-1.2.20-code32.apk",
+    "sha256":  "c08fbbb83380125c625a541d0a4e3ab87a5103509bd15f07bf75625a74eaae77",
+    "fileSize":  19493297,
     "releaseNotes":  [
-                         "新增命例資料並排對照；仅显示用户选中的本地出生资料，不产生命理结论或修改排盘。"
+                         "命例资料对照选择器新增姓名搜索，可快速定位档案；已选命例在过滤时仍可见并可移除。搜索仅在当前弹层内存中匹配姓名，不读取备注、不保存或上传搜索词。"
                      ],
-    "publishedAt":  "2026-11-15T17:58:55.3327856+08:00"
+    "publishedAt":  "2026-11-15T23:03:21.3946932+08:00"
 }
