@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
-    "versionCode":  29,
-    "versionName":  "1.2.17",
-    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.17/XuanAoBaZi-1.2.17-code29.apk",
-    "sha256":  "fa28aaf4c2aa321552a9aff127300fb2fef1f63717bb35901e5328d603a62c0f",
-    "fileSize":  19465801,
+    "versionCode":  30,
+    "versionName":  "1.2.18",
+    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.18/XuanAoBaZi-1.2.18-code30.apk",
+    "sha256":  "7df977b86b4b369a241557bb7184b5479a4d40e579edfed98a83df273e17c6e8",
+    "fileSize":  19469237,
     "releaseNotes":  [
-                         "命例列表新增完整出生日期搜尋；支援公曆/農曆，農曆閏月需標註；僅匹配本機保存值，不做曆法轉換。"
+                         "命例首頁新增性別快速篩選（全部/男/女），與本機搜尋和標籤篩選組合；未知性別值只在全部中顯示。"
                      ],
-    "publishedAt":  "2026-11-15T08:05:35.5467272+08:00"
+    "publishedAt":  "2026-11-15T12:57:33.7774239+08:00"
 }
