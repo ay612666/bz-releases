@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
-    "versionCode":  32,
-    "versionName":  "1.2.20",
-    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.20/XuanAoBaZi-1.2.20-code32.apk",
-    "sha256":  "c08fbbb83380125c625a541d0a4e3ab87a5103509bd15f07bf75625a74eaae77",
-    "fileSize":  19493297,
+    "versionCode":  33,
+    "versionName":  "1.2.21",
+    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.21/XuanAoBaZi-1.2.21-code33.apk",
+    "sha256":  "a16cb6c1fa9f73f8b00b54914d11e9d993d1b65e9dd5f7b51d78d686f82e48e9",
+    "fileSize":  19494301,
     "releaseNotes":  [
-                         "命例资料对照选择器新增姓名搜索，可快速定位档案；已选命例在过滤时仍可见并可移除。搜索仅在当前弹层内存中匹配姓名，不读取备注、不保存或上传搜索词。"
+                         "命例并排对照新增逐项相同/不同提示；仅比较已显示的本地保存值。"
                      ],
-    "publishedAt":  "2026-11-15T23:03:21.3946932+08:00"
+    "publishedAt":  "2026-11-16T04:00:22.8356725+08:00"
 }
