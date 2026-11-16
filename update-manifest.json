@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
-    "versionCode":  34,
-    "versionName":  "1.2.22",
-    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.22/XuanAoBaZi-1.2.22-code34.apk",
-    "sha256":  "6e20da52d6aaf030929b0ec9f8894536052884bf1cba15139d4d78c5298aafc3",
-    "fileSize":  19498033,
+    "versionCode":  35,
+    "versionName":  "1.2.23",
+    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.23/XuanAoBaZi-1.2.23-code35.apk",
+    "sha256":  "77c688d23ab8ef1ca69bba3aca1cd940a5b7ba1a1f5bd7b66109f56c05d96997",
+    "fileSize":  19503261,
     "releaseNotes":  [
-                         "命例列表新增公历/农历筛选；只按本地历法类型过滤，不换算日期。"
+                         "新增命例收藏與只看收藏篩選。收藏保存在本機，不改排盤與報告結果。"
                      ],
-    "publishedAt":  "2026-11-16T09:01:39.5172380+08:00"
+    "publishedAt":  "2026-11-16T19:03:54.9409008+08:00"
 }
