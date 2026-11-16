@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
-    "versionCode":  33,
-    "versionName":  "1.2.21",
-    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.21/XuanAoBaZi-1.2.21-code33.apk",
-    "sha256":  "a16cb6c1fa9f73f8b00b54914d11e9d993d1b65e9dd5f7b51d78d686f82e48e9",
-    "fileSize":  19494301,
+    "versionCode":  34,
+    "versionName":  "1.2.22",
+    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.22/XuanAoBaZi-1.2.22-code34.apk",
+    "sha256":  "6e20da52d6aaf030929b0ec9f8894536052884bf1cba15139d4d78c5298aafc3",
+    "fileSize":  19498033,
     "releaseNotes":  [
-                         "命例并排对照新增逐项相同/不同提示；仅比较已显示的本地保存值。"
+                         "命例列表新增公历/农历筛选；只按本地历法类型过滤，不换算日期。"
                      ],
-    "publishedAt":  "2026-11-16T04:00:22.8356725+08:00"
+    "publishedAt":  "2026-11-16T09:01:39.5172380+08:00"
 }
