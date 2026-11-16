@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
-    "versionCode":  35,
-    "versionName":  "1.2.23",
-    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.23/XuanAoBaZi-1.2.23-code35.apk",
-    "sha256":  "77c688d23ab8ef1ca69bba3aca1cd940a5b7ba1a1f5bd7b66109f56c05d96997",
-    "fileSize":  19503261,
+    "versionCode":  36,
+    "versionName":  "1.2.24",
+    "apkUrl":  "https://github.com/ay612666/bz-releases/releases/download/v1.2.24/XuanAoBaZi-1.2.24-code36.apk",
+    "sha256":  "bbb364cb86204ba475d3acd7f99aed57959cfedcfeccddc2738255b3c99905db",
+    "fileSize":  19505257,
     "releaseNotes":  [
-                         "新增命例收藏與只看收藏篩選。收藏保存在本機，不改排盤與報告結果。"
+                         "命例列表新增一键清除筛选；清除搜索、标签、性别、历法及收藏条件，保留排序。"
                      ],
-    "publishedAt":  "2026-11-16T19:03:54.9409008+08:00"
+    "publishedAt":  "2026-11-17T05:07:57.9421596+08:00"
 }
